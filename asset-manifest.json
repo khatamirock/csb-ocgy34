@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://khatamirock.github.io/csb-ocgy34/static/js/main.8fdd71fb.chunk.js",
+    "main.js.map": "https://khatamirock.github.io/csb-ocgy34/static/js/main.8fdd71fb.chunk.js.map",
+    "runtime-main.js": "https://khatamirock.github.io/csb-ocgy34/static/js/runtime-main.47986f45.js",
+    "runtime-main.js.map": "https://khatamirock.github.io/csb-ocgy34/static/js/runtime-main.47986f45.js.map",
+    "static/js/2.46c8e90e.chunk.js": "https://khatamirock.github.io/csb-ocgy34/static/js/2.46c8e90e.chunk.js",
+    "static/js/2.46c8e90e.chunk.js.map": "https://khatamirock.github.io/csb-ocgy34/static/js/2.46c8e90e.chunk.js.map",
+    "index.html": "https://khatamirock.github.io/csb-ocgy34/index.html",
+    "precache-manifest.4f3702cece30fb9dcbc192ea3e9c97d6.js": "https://khatamirock.github.io/csb-ocgy34/precache-manifest.4f3702cece30fb9dcbc192ea3e9c97d6.js",
+    "service-worker.js": "https://khatamirock.github.io/csb-ocgy34/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47986f45.js",
+    "static/js/2.46c8e90e.chunk.js",
+    "static/js/main.8fdd71fb.chunk.js"
+  ]
+}
